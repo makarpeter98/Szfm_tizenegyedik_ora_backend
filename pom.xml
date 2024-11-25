@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.szfm.makar</groupId>
-	<artifactId>React_demo</artifactId>
+	<artifactId>React_app_demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>React_demo</name>
 	<description>Demo project for React &amp; Spring Boot</description>
