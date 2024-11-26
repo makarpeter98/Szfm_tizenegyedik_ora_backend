@@ -1,0 +1,5 @@
+{
+    "name":"Elektrom Agnes",
+    "username":"Eagnes",
+    "email":"eagnes@agnes.hu"
+}
