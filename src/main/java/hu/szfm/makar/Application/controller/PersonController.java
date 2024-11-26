@@ -16,7 +16,7 @@ public class PersonController {
     @PostMapping("/person")
     Person newPerson(@RequestBody Person newPerson)
     {
-        return personRepository.save(newPerson)
+        return personRepository.save(newPerson);
     }
 
     @GetMapping("/persons")
